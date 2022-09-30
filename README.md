@@ -1,1 +1,1 @@
-# 13-Transfer_Learning_COVID19_X-RAY
+## Transfer Learning Para Categorização de Patologias
