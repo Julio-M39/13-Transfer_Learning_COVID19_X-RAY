@@ -40,7 +40,7 @@ A imagem abaixo mostra a matriz de confusão:
 <img src="https://user-images.githubusercontent.com/54995990/193692932-a7efd44f-a291-4489-b841-a2c8f59c06ea.png" width="350px" />
 </div>
 
-A imagem abaixo mostra um relatório de classificação
+A imagem abaixo mostra um relatório de classificação:
 
 <div>
 <img src="https://user-images.githubusercontent.com/54995990/193693313-c5757d9b-a947-406e-ae00-9c8204133890.png" width="550px" />
