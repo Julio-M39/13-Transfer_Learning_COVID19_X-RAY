@@ -15,9 +15,9 @@ Neste projeto vamos construir um modelo de IA que ao receber uma imagem será ca
 
 **Referências:**
 
-<a href="https://deepai.org/machine-learning-glossary-and-terms/transfer-learning">Transfer Learning</a>
-<a href="https://openreview.net/pdf?id=ryebG04YvB">ADVERSARIALLY ROBUST TRANSFER LEARNING</a>
-<a href="https://openreview.net/pdf?id=ryeYpJSKwr">META-LEARNING ACQUISITION FUNCTIONS FOR TRANSFER LEARNING IN BAYESIAN OPTIMIZATION</a>
+- <a href="https://deepai.org/machine-learning-glossary-and-terms/transfer-learning">Transfer Learning</a>
+- <a href="https://openreview.net/pdf?id=ryebG04YvB">ADVERSARIALLY ROBUST TRANSFER LEARNING</a>
+- <a href="https://openreview.net/pdf?id=ryeYpJSKwr">META-LEARNING ACQUISITION FUNCTIONS FOR TRANSFER LEARNING IN BAYESIAN OPTIMIZATION</a>
 
 Fonte de Dados:
 
