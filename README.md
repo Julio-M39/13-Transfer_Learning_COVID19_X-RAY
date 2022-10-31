@@ -11,7 +11,7 @@ A ideia geral da aprendizagem por transferência é usar o conhecimento aprendid
 Em um modelo de aprendizado de máquina tradicional, o objetivo principal é generalizar para dados invisíveis com base em padrões aprendidos com os dados de 
 treinamento. Com a aprendizagem por transferência, você tenta iniciar esse processo de generalização começando a partir de padrões que foram aprendidos para uma tarefa diferente. Essencialmente, em vez de iniciar o processo de aprendizagem a partir de uma folha em branco (geralmente inicializada aleatoriamente), você começa a partir de padrões que foram aprendidos para resolver uma tarefa diferente. A transferência de conhecimento e padrões é possível em uma ampla variedade de domínios.
 
-Neste projeto vamos construir um modelo de IA que ao receber uma imagem será capaz de detectar se há alguma anomalia que indique a presença de COVID. Daremos ênfase ao Transfer Learning e ainda apresentaremos uma nova técnica de tratamento de dados desbalanceados.
+Neste projeto vamos construir um modelo de IA que ao receber uma imagem e será capaz de detectar se há alguma anomalia que indique a presença de COVID. Daremos ênfase ao Transfer Learning e ainda apresentaremos uma nova técnica de tratamento de dados desbalanceados.
 
 **Referências:**
 
